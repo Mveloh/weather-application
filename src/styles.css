@@ -23,6 +23,10 @@ li {
   line-height: 1;
   list-style: none;
 }
+.weather-app-site {
+  max-width: 600px;
+  margin: 20px auto;
+}
 
 .weather-app {
   border: 1px solid #dadde1;
